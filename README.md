@@ -80,16 +80,7 @@ A Java-based system focused on handling student records efficiently using struct
 
 ---
 
-### 🌱 EcoTech Solutions
-A sustainability-driven project concept focused on using technology to support greener, smarter decision-making.
 
-**Highlights**
-- Project planning
-- Systems thinking
-- Sustainability-aligned solution design
-- Presentation-ready structure
-
----
 
 ### 📊 Digital Score / Tracking Systems
 A practical system idea for replacing manual record-keeping with a more efficient digital workflow.
@@ -136,8 +127,8 @@ A practical system idea for replacing manual record-keeping with a more efficien
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aqilamani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqilamani&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
@@ -159,7 +150,7 @@ A practical system idea for replacing manual record-keeping with a more efficien
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aqilamani&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
