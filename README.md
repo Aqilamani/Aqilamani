@@ -1,7 +1,9 @@
 <div align="center">
 
 # Aqil Amani Misni
+  
    <img src="me.jpg" width="160" alt="My Image">
+
 ### Computer Science Student • Builder • Athlete • EcoTech-Minded Creator
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Building+clean+and+practical+software;Computer+Science+student+at+University+of+Malaya;Athlete+mindset+%2B+Engineer+discipline;EcoTech+Projects+%7C+Java+%7C+Python+%7C+Web+Development" alt="Typing SVG" />
