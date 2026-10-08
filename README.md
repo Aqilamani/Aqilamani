@@ -1,6 +1,8 @@
 <div align="center">
 
 # Aqil Amani Misni
+  
+   <img src="me.jpg" width="160" alt="My Image">
 
 ### Computer Science Student • Builder • Athlete • EcoTech-Minded Creator
 
@@ -24,6 +26,7 @@ I enjoy building projects that combine **technology, usability, and real-world v
 
 I also bring an **athlete mindset** into my work: discipline, consistency, resilience, and performance under pressure.
 
+- 📚 **Course expectations**: To gain hands-on experience in maintaining and evolving software, and to learn how to work with legacy systems.
 - 🌱 Currently learning: **JavaScript, databases, full-stack development**
 - 🛠 Building: **software projects, academic systems, and practical digital tools**
 - 🏃 Athlete focus: **400m / 800m performance and coaching mindset**
